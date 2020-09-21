@@ -13,6 +13,6 @@
 4. 如何设置https的请求地址？
 
 5. 如何从微信小程序跳转到html网站
-	答:使用小程序的web-view,但是这个只能小程序企业版才行
+	答:使用小程序的web-view,但是这个只能小程序企业版才行  https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html
 	
 6. 在小程序后台设置体验的时候，必须设置路径  pages/home/home
