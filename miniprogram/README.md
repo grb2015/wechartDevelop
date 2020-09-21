@@ -16,3 +16,6 @@
 	答:使用小程序的web-view,但是这个只能小程序企业版才行  https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html
 	
 6. 在小程序后台设置体验的时候，必须设置路径  pages/home/home
+
+7. 小程序跳转到h5携带参数,如何调试呢？
+   好像没有更好的方法进行调试,只能把传递过去的参数，使用html的<p>标签等,将参数在页面显示出来。而且必须h5改一遍，就部署h5到服务器一遍。
