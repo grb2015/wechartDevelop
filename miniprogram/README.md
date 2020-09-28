@@ -28,5 +28,5 @@
 	step4 : 上传代码。在微信开发工具里面,导入项目，填写appid 。 然后右上角上传  
 	step5 : 在微信公众平台里面，将上传的版本提交审核  
 	step6 : 审核通过之后，在微信公众平台里面，点击发布  
-9. 小程序本地素材不能超过2M。所以素材尽量都放到oss  https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages.html
+9. 小程序本地素材单个不能超过2M。所以素材尽量都放到oss  https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages.html
 
